@@ -1,0 +1,7 @@
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\obj\Debug\ByteBank2.csproj.AssemblyReference.cache
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\obj\Debug\ByteBank2.csproj.CoreCompileInputs.cache
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\bin\Debug\ByteBank2.0.exe.config
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\bin\Debug\ByteBank2.0.exe
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\bin\Debug\ByteBank2.0.pdb
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\obj\Debug\ByteBank2.0.exe
+C:\Users\JM2\source\repos\ByteBank2.0\ByteBank2.0\obj\Debug\ByteBank2.0.pdb
